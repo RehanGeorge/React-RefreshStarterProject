@@ -1,3 +1,5 @@
+import './CoreConcept.css';
+
 export default function CoreConcept({image, title, description}) { // Can also destructure props in the function signature
     return (
       <li>
